@@ -8,7 +8,8 @@ LA DATA EN SISMOLOGIE
 
 Voici donc notre travail présenté à l'oral devant les deux promos de data Analyst.
 
-Power point généré via Gamma.app
+- PowerPoint généré via Gamma.app
 Les recherches ont été effectuées sur internet pour ma part.
+- Fichier ipynb avec visualisation graphique via Segyio
 
 Bonne lecture!!!
