@@ -1,5 +1,5 @@
 # Press-Review
-Bonjour à tous, 
+Bonjour à toutes et à tous, 
 
 Cette revue de presse a été faite dans le cadre de ma formation Data Analyst.
 Nous avions la charge, en groupe de 2/3 personnes, de choisir un sujet et de le présenter sous l'angle de la Data.
